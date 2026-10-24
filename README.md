@@ -51,45 +51,7 @@ Analyze sales data to understand revenue trends, product performance, regional s
 
 ---
 
-### 2. Customer Analysis
-
-**Status:** Planned
-
-Analyze customer data to understand purchasing behavior, customer segmentation, and customer engagement.
-
-**Key Activities:**
-
-* Explore customer demographics
-* Analyze customer purchasing patterns
-* Identify high-value customers
-* Perform customer segmentation
-* Use SQL JOINs, CTEs, and window functions
-* Identify trends in customer behavior
-
-📂 [View Customer Analysis Project](./02_Customer_Analysis/README.md)
-
----
-
-### 3. Supermarket Sales Analysis
-
-**Status:** Planned
-
-Analyze supermarket transactions, product categories, customer purchasing patterns, and sales performance.
-
-**Key Activities:**
-
-* Analyze transaction records
-* Calculate total sales and average transaction value
-* Compare product category performance
-* Analyze payment methods
-* Identify sales trends
-* Generate business insights using SQL queries
-
-📂 [View Supermarket Sales Project](./03_Supermarket_Sales_Analysis/README.md)
-
----
-
-### 4. Banking Transaction Analysis and Fraud Detection
+### 2. Banking Transaction Analysis and Fraud Detection
 
 **Status:** In Progress
 
@@ -118,6 +80,44 @@ Analyze banking transaction data to understand transaction patterns, identify un
 📂 [View Banking Transaction Analysis Project](./04_Banking_Transaction_Analysis/README.md)
 
 ---
+
+### 3. Supermarket Sales Analysis
+
+**Status:** Planned
+
+Analyze supermarket transactions, product categories, customer purchasing patterns, and sales performance.
+
+**Key Activities:**
+
+* Analyze transaction records
+* Calculate total sales and average transaction value
+* Compare product category performance
+* Analyze payment methods
+* Identify sales trends
+* Generate business insights using SQL queries
+
+📂 [View Supermarket Sales Project](./03_Supermarket_Sales_Analysis/README.md)
+
+---
+
+### 4. Customer Analysis
+
+**Status:** Planned
+
+Analyze customer data to understand purchasing behavior, customer segmentation, and customer engagement.
+
+**Key Activities:**
+
+* Explore customer demographics
+* Analyze customer purchasing patterns
+* Identify high-value customers
+* Perform customer segmentation
+* Use SQL JOINs, CTEs, and window functions
+* Identify trends in customer behavior
+
+📂 [View Customer Analysis Project](./02_Customer_Analysis/README.md)
+
+------
 
 ### 5. HR Analytics
 
