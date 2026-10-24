@@ -47,7 +47,7 @@ Analyze sales data to understand revenue trends, product performance, regional s
 * Use GROUP BY, JOINs, and aggregate functions
 * Generate actionable business insights
 
-📂 [View Sales Analysis Project](./01_Sales_Analysis/README.md)
+📂 [View Sales Analysis Project](./Sales_Data_Analytics/README.md)
 
 ---
 
