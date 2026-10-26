@@ -96,7 +96,7 @@ Analyze supermarket transactions, product categories, customer purchasing patter
 * Identify sales trends
 * Generate business insights using SQL queries
 
-📂 [View Supermarket Sales Project](./03_Supermarket_Sales_Analysis/README.md)
+📂 [View Supermarket Sales Project](./Super_Market_Sales_Analysis/README.md)
 
 ---
 
