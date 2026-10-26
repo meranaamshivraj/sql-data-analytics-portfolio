@@ -77,7 +77,7 @@ Analyze banking transaction data to understand transaction patterns, identify un
 * Subqueries
 * Window Functions
 
-📂 [View Banking Transaction Analysis Project](./04_Banking_Transaction_Analysis/README.md)
+📂 [View Banking Transaction Analysis Project](./Banking_Treansaction_Analysis/README.md)
 
 ---
 
